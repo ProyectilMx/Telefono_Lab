@@ -1,6 +1,8 @@
 # Telefono_Lab
  Proyectil MX Audios para teléfono
 
+ + [**MANUAL**](https://github.com/ProyectilMx/Telefono_Lab/blob/main/Manual%20Telefono%20Laboratorio%20-%20Enigma%20Rooms.pdf)
+
  ![image](https://github.com/ProyectilMx/Telefono_Lab/assets/40368863/eab0d30a-c9c1-4214-84df-4e897ab2f005)
 
 
